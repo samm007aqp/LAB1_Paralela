@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600796500 source:c:\codeblocks\dos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<chrono>
+
